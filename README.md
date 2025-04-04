@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Alphawarrior21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Alphawarrior21/Alphawarrior21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Sumit Chand 
+👀 I’m interested in software development, open-source projects, and emerging technologies.  
+🌱 I’m currently learning advanced Python programming, machine learning,Generative AI and cloud computing.  
+💞️ I’m looking to collaborate on innovative projects that make a difference, particularly in the fields of AI and sustainability.  
+📫 How to reach me: Feel free to connect with me via email at [sumit.chand.cs21.com] or on LinkedIn at [www.linkedin.com/in/sumit-chand-2105].  
